@@ -1,7 +1,7 @@
 # simple-maven-webapp
 
 OpenShiftのパイプラインを検証するためのシンプルなWebアプリケーションです。  
-http://<YourHost>/sample-webapp/SampleApp　にアクセスすると、山の画像が表示されます。  
+http://[YourHost FQDN]/sample-webapp/SampleApp　にアクセスすると、山の画像が表示されます。  
 数秒ごとに4枚の写真が切り替わります。  
   
 
