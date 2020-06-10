@@ -20,8 +20,9 @@ public class SampleApp extends HttpServlet {
     out.println("<link rel=\"stylesheet\" href=\"css/style.css\">");
     out.println("<script src=\"js/jquery-3.5.1.min.js\"></script>");
     out.println("<script src=\"js/jquery.bgswitcher.js\"></script>");
+      
     //umi.js or yama.js  
-    out.println("<script src=\"js/umi.js\"></script>");
+    out.println("<script src=\"js/yama.js\"></script>");
     out.println("</head>");
     out.println("<div class=\"bg-slider\">");
     out.println("  <h1 class=\"bg-slider__title\">Sample Web Application</h1>");
